@@ -6,7 +6,7 @@
 
 Validate, generate, review, and improve DITA XML content using AI assistants — grounded in the official DITA 1.3 DTDs.
 
-[![CI](https://github.com/your-org/dita-skills/actions/workflows/ci.yml/badge.svg)](https://github.com/your-org/dita-skills/actions/workflows/ci.yml)
+[![CI](https://github.com/jyjeanne/dita-skills/actions/workflows/ci.yml/badge.svg)](https://github.com/your-org/dita-skills/actions/workflows/ci.yml)
 <!-- ↑ Replace `your-org` with your GitHub username or organisation before publishing -->
 [![Python 3.9+](https://img.shields.io/badge/python-3.9%2B-blue?logo=python&logoColor=white)](https://www.python.org)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
